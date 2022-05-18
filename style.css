@@ -15,3 +15,13 @@ html {
   font-size: 30px;
   white-space: nowrap;
 }
+
+/* Log In/Sign Up Box */
+
+.white-box{
+  width: 370px;
+  height: 320px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: h-offset v-offset blur spread color;
+}
