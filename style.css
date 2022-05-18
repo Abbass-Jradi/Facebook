@@ -100,7 +100,8 @@ hr {
   align-items: center;
   justify-content: center;
   font-family: Helvetica, Arial, sans-serif;
-  gap:10px;
+  gap: 10px;
+  cursor: pointer:
 }
 
 /* Media Query */
