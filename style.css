@@ -10,6 +10,21 @@ html {
   background-color: #f0f2f5; 
 }
 
+/* Page Content */
+
+.content {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+  flex-wrap: wrap; 
+}
+
+.elements {
+  width: 48%;
+}
+
 .introduction-of-facebook {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 30px;
