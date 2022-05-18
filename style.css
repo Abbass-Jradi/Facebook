@@ -9,3 +9,9 @@
 html {
   background-color: #f0f2f5; 
 }
+
+.introduction-of-facebook {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 30px;
+  white-space: nowrap;
+}
