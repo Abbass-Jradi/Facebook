@@ -118,15 +118,19 @@ hr {
   }
 }
 
-@media (min-width: 950px){
-  .introduction-of-facebook.selected{
-    font-size: 25px;
+@media (max-width: 900px){
+  .content{
+      margin-bottom: 70px;
   }
-}
-
-@media (max-width: 1500px){
+  .elements{
+      width: 60%;
+      margin: 20px;
+      
+  }
   .introduction-of-facebook.selected{
-    font-size:25px;
-
+    font-size: 20px;
+    white-space: initial;
+    text-align: center;
+    margin-bottom: 10px;
   }
 }
