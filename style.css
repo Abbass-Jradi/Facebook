@@ -117,3 +117,16 @@ hr {
 
   }
 }
+
+@media (min-width: 950px){
+  .introduction-of-facebook.selected{
+    font-size: 25px;
+  }
+}
+
+@media (max-width: 1500px){
+  .introduction-of-facebook.selected{
+    font-size:25px;
+
+  }
+}
