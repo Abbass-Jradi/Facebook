@@ -34,3 +34,15 @@ html {
   gap:10px;
   box-sizing: border-box;
 }
+
+.text-box{
+  width: 90%;
+  height: 55px;
+  padding: 5px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #f0f2f5;
+}
+
